@@ -1,4 +1,4 @@
-﻿#   I^2^A^2^  - Inteligência Artificial  
+﻿#   $I^2A^2$  - Inteligência Artificial  
 ## TENKAI - A  IA que redefine o que é excelência em soluções e inspira para o futuro
 ## Missão
 >Transformar desafios globais em soluções inovadoras, utilizando inteligência artificial para impactar positivamente vidas, comunidades e o meio ambiente
