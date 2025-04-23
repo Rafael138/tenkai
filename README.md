@@ -1,5 +1,5 @@
 ﻿#   $I^2A^2$  - Inteligência Artificial  
-## TENKAI - A  IA que redefine o que é excelência em soluções e inspira para o futuro
+## TENKAI - A  IA que redefine o conceito de excelência em soluções e que inspira para o futuro
 ## Missão
 >Transformar desafios globais em soluções inovadoras, utilizando inteligência artificial para impactar positivamente vidas, comunidades e o meio ambiente
 
@@ -42,7 +42,7 @@ Apresentação dos projetos com as propostas e tecnologias empregadas
 ## Tarefas Check-List
  - [x] Definição do Projeto
  - [x] Definição de Prazos
- - [ ] Levantamento dos Requisitos
+ - [x] Levantamento dos Requisitos
  - [ ] Distribuição de tarefas
  - [ ] Teste de Funcionalidade
 
