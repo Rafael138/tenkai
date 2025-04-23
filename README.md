@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿#   I^2^A^2^  - Inteligência Artificial  
 ## TENKAI - A  IA que redefine o que é excelência em soluções e inspira para o futuro
 ## Missão
@@ -78,3 +79,7 @@ C --> D
 ```
 
    ### Desenvolvido por Tenkai  teste
+=======
+# tenkai
+Inteligência Artificial I2A2- TENKAI
+>>>>>>> 02d529670231bd1559f62d1b95de86c612796554
