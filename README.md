@@ -18,7 +18,8 @@
     
 >-   **Excelência:** Dedicação para entregar resultados de alta qualidade e confiabilidade.
     
-   ### Idealizadores membros:
+## Idealizadores membros:
+
 - Bruna de Souza  
 - Daniel Cabezas
 - Lopes   
